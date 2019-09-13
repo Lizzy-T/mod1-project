@@ -45,10 +45,8 @@ Life Raft helps you plan your next rafting adventure!
 <h2> Creators </h2>
 Lizzy Tong and Martin Milius
 <br>
-Special thank you to Catherine O'Hara, view her blog for more ideas on how to design a pretty Cli app.
+Special thank you to Catherine O'Hara,<a href = 'https://medium.com/@oharacatherine/when-the-bash-aint-got-flash-beautify-the-cli-5f318325a86'>View blog</a> for more ideas on how to design a pretty Cli app.
 <br>
- *<a href = 'https://medium.com/@oharacatherine/when-the-bash-aint-got-flash-beautify-the-cli-5f318325a86'>View blog</a></p>
-
 <h2> License </h2>
 <a href = 'https://github.com/Lizzy-T/mod1-project/blob/master/LICENSE.md'> View License </a>
 
