@@ -25,11 +25,13 @@ Click to view <a href = 'https://youtu.be/B3v7CYtwNHY'> View video </a>
     </ul>
 
 <h2> Stet Up and Install Instructions </h2>
-1.	Clone from our GitHub repository 
-2.	Bundle Install Gems
-3.	Rake DB: Seed (to seed your database)
-4.	Rake CSV (to parse CSV to your database) 
-5.	Rake Run (to run app)
+<ol>
+    <li>Clone from our GitHub repository</li>
+    <li>Bundle Install Gems</li>
+    <li>Rake DB: Seed (to seed your database)</li>
+    <li>Rake CSV (to parse CSV to your database)</li>
+    <li>Rake Run (to run app)</li>
+</ol>
 
 <h2> Future Plans: </h2>
 <ul>
