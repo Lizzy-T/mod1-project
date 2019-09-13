@@ -4,8 +4,8 @@ Life Raft helps you plan your next rafting adventure!
 <ul>
     <li>Discover rafting companies and rivers in your area. </li>
     <li> Save your favorite trips. </li>
-    <li> Find out how much your trips will cost. <li>
-    </ul>
+    <li> Find out how much your trips will cost.</li>
+</ul>
 
 <h2> Features: </h2>
 <p>Enter your name to retrieve your records</p>
@@ -33,16 +33,18 @@ Click to view <a href = 'https://youtu.be/B3v7CYtwNHY'> View video </a>
 
 <h2> Future Plans: </h2>
 <ul>
-    <li>*Refactor code</li>
-    <li> *Allow multiple users to favorite the same trips </li>
-    <li>*Enable users to view trips by rapid level</li>
-    <li>*Enable users to view which trips allow children</li>
-    <li> *Connect API for real time water and weather conditions</li>
+    <li>Refactor code</li>
+    <li>Allow multiple users to favorite the same trips </li>
+    <li>Enable users to view trips by rapid level</li>
+    <li>Enable users to view which trips allow children</li>
+    <li>Connect API for real time water and weather conditions</li>
 
 <h2> Creators </h2>
 Lizzy Tong and Martin Milius
-<p>Special thank you to Catherine O'Hara, view her blog for more ideas on how to design a pretty Cli app.</p>
-   <p> *View her blog: <a href = 'https://medium.com/@oharacatherine/when-the-bash-aint-got-flash-beautify-the-cli-5f318325a86'>View blog</a></p>
+<br>
+Special thank you to Catherine O'Hara, view her blog for more ideas on how to design a pretty Cli app.
+<br>
+ *View her blog: <a href = 'https://medium.com/@oharacatherine/when-the-bash-aint-got-flash-beautify-the-cli-5f318325a86'>View blog</a></p>
 
 <h2> License </h2>
 Click to View <a href = 'https://github.com/Lizzy-T/mod1-project/blob/master/LICENSE.mda' > View License </a>
