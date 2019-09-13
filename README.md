@@ -14,7 +14,7 @@ Life Raft helps you plan your next rafting adventure!
 <p>Calculate how much your favorite trips will cost</p>
 
 <h2> Video </h2>
-Click to view <a href = 'https://youtu.be/B3v7CYtwNHY'> View video </a> 
+<a href = 'https://youtu.be/B3v7CYtwNHY'> View video </a> 
 
 <h2> Technology </h2>
 <ul>
@@ -47,8 +47,8 @@ Lizzy Tong and Martin Milius
 <br>
 Special thank you to Catherine O'Hara, view her blog for more ideas on how to design a pretty Cli app.
 <br>
- *View her blog: <a href = 'https://medium.com/@oharacatherine/when-the-bash-aint-got-flash-beautify-the-cli-5f318325a86'>View blog</a></p>
+ *<a href = 'https://medium.com/@oharacatherine/when-the-bash-aint-got-flash-beautify-the-cli-5f318325a86'>View blog</a></p>
 
 <h2> License </h2>
-Click to View <a href = 'https://github.com/Lizzy-T/mod1-project/blob/master/LICENSE.md'> View License </a>
+<a href = 'https://github.com/Lizzy-T/mod1-project/blob/master/LICENSE.md'> View License </a>
 
