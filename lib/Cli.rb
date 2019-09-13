@@ -50,7 +50,6 @@ class Cli
             choose_by_company
         when "All Trips Available"
             all_trips
-            user_main_menu
         when "Company Headquarters' Location"
             choose_by_location
         when "My Favorites"
