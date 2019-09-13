@@ -1,11 +1,6 @@
 <h1> Life Raft </h1>
 
 Life Raft helps you plan your next rafting adventure!
-<ul>
-    <li>Discover rafting companies and rivers in your area. </li>
-    <li> Save your favorite trips. </li>
-    <li> Find out how much your trips will cost.</li>
-</ul>
 
 <h2> Features</h2>
 <p>Enter your name to retrieve your records</p>
