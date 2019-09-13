@@ -38,6 +38,7 @@ Click to view <a href = 'https://youtu.be/B3v7CYtwNHY'> View video </a>
     <li>Enable users to view trips by rapid level</li>
     <li>Enable users to view which trips allow children</li>
     <li>Connect API for real time water and weather conditions</li>
+</ul>
 
 <h2> Creators </h2>
 Lizzy Tong and Martin Milius
